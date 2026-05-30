@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentderify",
+        "uuid": 7216944,
+        "checksum": "zcb22j"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
